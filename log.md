@@ -11,7 +11,7 @@
 
 ### Day 2: April 22, Sunday - 2018
 
-**Today's Progress**: I'm getting to grips with Node.JS
+**Today's Progress**: Completed the NodeJS notes app.  Functionality includes adding, removing, viewing and listing notes.
 
 **Thoughts** I have finished the NodeJS notes app and I have learned about using the NodeJS console and Chrome Dev Tools to debug the code.  Feeling accomplished, but it's 4:31am and I am exhausted!
 
