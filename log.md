@@ -7,6 +7,8 @@
 **Link(s) to work**
 1. N/A
 
+
+
 ### Day 2: April 22, Sunday - 2018
 
 **Today's Progress**: I'm getting to grips with Node.JS
